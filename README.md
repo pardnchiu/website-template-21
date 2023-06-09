@@ -2,6 +2,8 @@
 
 ![Website Template 網站模板 21 - Pardn Chiu 邱敬幃](./image/2-1.jpg)
 
+![Website Template 網站模板 21 - Pardn Chiu 邱敬幃](./image/Group%201.jpg)
+
 ## 功能特點
 
 - 使用Html、Css / Sass和Javascript編寫。
