@@ -1,8 +1,8 @@
 # Website Template 網站模板 21
 
-![Website Template 網站模板 21 - Pardn Chiu 邱敬幃](./image/2-1.jpg)
-
 ![Website Template 網站模板 21 - Pardn Chiu 邱敬幃](./image/Group%201.jpg)
+
+<br>
 
 ## 功能特點
 
@@ -11,10 +11,14 @@
 - 可以在[此處進行預覽](https://pardnchiu.github.io/website-template-21)。
 - 可以在[GitHub](https://github.com/pardnchiu/website-template-21)上找到源碼。
 
+<br>
+
 ## 作者和貢獻者
 
 - [Pardn Ltd 帕登國際有限公司](https://www.linkedin.com/company/pardnltd)
 - [Pardn Chiu 邱敬幃](https://www.linkedin.com/in/pardnchiu)
+
+<br>
 
 ## 授權
 
